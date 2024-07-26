@@ -36,4 +36,4 @@ This project is licensed under the MIT License.
 
 ## Demo
 
-![Image]([.data/demo.gif](https://github.com/passshell/passshell-cli/blob/main/.data/demo.gif))
+![Image](https://github.com/passshell/passshell-cli/blob/main/.data/demo.gif)
